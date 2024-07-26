@@ -1,0 +1,338 @@
+
+
+Tue Jul 23 15:33:26 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.RuntimeException: INTERNET: 0~#;1~-1;2~-1;3~-1
+	at android.ext.BaseActivity.checkPermissions(BaseActivity.java:840)
+	at android.ext.Main.onStart(Main.java:361)
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:129)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:27 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:135)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+	Suppressed: java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+		... 11 more
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:27 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: DaemonLoader
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.onStatusChanged()' on a null object reference
+	at android.ext.DaemonManager$7.run(DaemonManager.java:740)
+	at java.lang.Thread.run(Thread.java:1012)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:33 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.RuntimeException: INTERNET: 0~#;1~-1;2~-1;3~-1
+	at android.ext.BaseActivity.checkPermissions(BaseActivity.java:840)
+	at android.ext.Main.onStart(Main.java:361)
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:129)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:33 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:135)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+	Suppressed: java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+		... 11 more
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:33 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: DaemonLoader
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.onStatusChanged()' on a null object reference
+	at android.ext.DaemonManager$7.run(DaemonManager.java:740)
+	at java.lang.Thread.run(Thread.java:1012)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:40 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.RuntimeException: INTERNET: 0~#;1~-1;2~-1;3~-1
+	at android.ext.BaseActivity.checkPermissions(BaseActivity.java:840)
+	at android.ext.Main.onStart(Main.java:361)
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:129)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:40 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+	at android.ext.BootstrapService.onStartCommand(BootstrapService.java:135)
+	at android.app.ActivityThread.handleServiceArgs(ActivityThread.java:5107)
+	at android.app.ActivityThread.-$$Nest$mhandleServiceArgs(Unknown Source:0)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2462)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+	Suppressed: java.lang.NullPointerException: Attempt to invoke virtual method 'android.app.Notification android.ext.MainService.getNotification(boolean, boolean)' on a null object reference
+		... 11 more
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:41 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: DaemonLoader
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.onStatusChanged()' on a null object reference
+	at android.ext.DaemonManager$7.run(DaemonManager.java:740)
+	at java.lang.Thread.run(Thread.java:1012)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:44 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.startHotkeyDetection()' on a null object reference
+	at android.ext.BaseActivity.showDialog(BaseActivity.java:280)
+	at com.apocalua.run.fragment.AggFragment$2.onClick(AggFragment.java:102)
+	at android.view.View.performClick(View.java:7798)
+	at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:1218)
+	at android.view.View.performClickInternal(View.java:7771)
+	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+	at android.view.View$PerformClick.run(View.java:31294)
+	at android.os.Handler.handleCallback(Handler.java:958)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:45 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: DaemonLoader
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.onStatusChanged()' on a null object reference
+	at android.ext.DaemonManager$7.run(DaemonManager.java:740)
+	at java.lang.Thread.run(Thread.java:1012)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:33:49 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.NullPointerException: Attempt to invoke virtual method 'void android.ext.MainService.startHotkeyDetection()' on a null object reference
+	at android.ext.BaseActivity.showDialog(BaseActivity.java:280)
+	at com.apocalua.run.fragment.AggFragment$2.onClick(AggFragment.java:102)
+	at android.view.View.performClick(View.java:7798)
+	at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:1218)
+	at android.view.View.performClickInternal(View.java:7771)
+	at android.view.View.-$$Nest$mperformClickInternal(Unknown Source:0)
+	at android.view.View$PerformClick.run(View.java:31294)
+	at android.os.Handler.handleCallback(Handler.java:958)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-1721719976000-E10142B7DDB47291-11856 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964582 1353 2a16579ee0a
+
+Tue Jul 23 15:35:48 GMT+08:00 2024
+/storage/emulated/0/crash.txt
+
+su
+/data/user/0/com.apocalua.run/files
+
+
+GG: 96.0 [15993]
+Android: 14
+SDK: 34
+vSpace: su
+Thread: main
+java.lang.ClassCastException: androidx.constraintlayout.widget.ConstraintLayout cannot be cast to com.google.android.material.card.MaterialCardView
+	at android.fix.floating.view.ThreadListView$2.onSelectedChanged(Unknown Source:286)
+	at androidx.recyclerview.widget.ItemTouchHelper.select(ItemTouchHelper.java:693)
+	at androidx.recyclerview.widget.ItemTouchHelper$ItemTouchHelperGestureListener.onLongPress(ItemTouchHelper.java:2360)
+	at android.view.GestureDetector.dispatchLongPress(GestureDetector.java:892)
+	at android.view.GestureDetector.-$$Nest$mdispatchLongPress(Unknown Source:0)
+	at android.view.GestureDetector$GestureHandler.handleMessage(GestureDetector.java:326)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:222)
+	at android.os.Looper.loop(Looper.java:314)
+	at android.app.ActivityThread.main(ActivityThread.java:8706)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:565)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1081)
+
+Hash: 1-8-347130062000-2A18CADC0711BFB9-12000 0-8-1720023948000-1E21B70FDACF3112-12185800 2-0-347130062000-8499F1986D18BFA8-1869996 70964726 1353 2a16579ee0a
